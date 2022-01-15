@@ -1,0 +1,46 @@
+body {
+    background-color: #3d0906;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #e0ba7b;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    color: white;
+    font-weight: bolder;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+a {
+    font-size: 18px;
+}
+
+a:link {
+    color: #e0ba7b;
+}
+
+a:visited {
+    color: #e0ba7b;
+}
+
+a:hover {
+    color: white;
+}
+
+img {height: auto;
+    width: 350px;}
+
+.front {height: auto;
+width: 400px;}
+
+ul, ol {
+    width: 300px;
+    padding-left: 325px;
+    direction: ltr;
+    text-align: left;}
